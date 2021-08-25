@@ -1,7 +1,7 @@
 # NetworkAnalyzer
 SNIX -- An elegant, easy to use packet analyzer.
 
-Compile with the "make" command.
+Compile with the "make" command on a Linux operating system.
 If you launch the "snix" program without any options, it will analyze the default interface.
 
 The CLI options are as follows:
